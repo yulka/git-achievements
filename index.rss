@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>Yulka plekhanova's Git Achievements</title>
+<title>Yulka Plekhanova's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Product Manager (Level 3)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
